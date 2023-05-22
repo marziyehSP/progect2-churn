@@ -5,6 +5,7 @@ This project aims to predict customer churn in a bank using logistic regression 
 ## Dataset
 
 The dataset used in this project contains the following features:
+
 RowNumber: The row number in the dataset
 CustomerId: Unique identifier for each customer
 Surname: Customer's surname
