@@ -1,8 +1,9 @@
 # progect2-churn
-#Churn Modeling
+### Churn Modeling
 This project aims to predict customer churn in a bank using logistic regression and neural network models. The goal is to determine whether a customer is likely to stay or leave the bank's services based on various features.
 
-##Dataset
+## Dataset
+
 The dataset used in this project contains the following features:
 RowNumber: The row number in the dataset
 CustomerId: Unique identifier for each customer
@@ -19,7 +20,8 @@ IsActiveMember: Whether the customer is an active bank member (1 for yes, 0 for 
 EstimatedSalary: Estimated salary of the customer
 Exited: Whether the customer has churned (1 for yes, 0 for no)
 
-##Results
+## Results
+
 After implementing the logistic regression and neural network models, the following results were achieved:
 Logistic Regression:
 Test Accuracy: 69.93%
